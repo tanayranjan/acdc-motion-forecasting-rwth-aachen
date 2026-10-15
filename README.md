@@ -9,8 +9,8 @@ Anticipating the future movements of dynamic traffic agents is a critical link b
 ## Repository Contents
 * **`report.ipynb`**: The primary executable notebook containing the complete data preprocessing, model architectures, training loops, and evaluation scripts for all vehicle and pedestrian models.
 * **`social_lstm_human.pth`**: Pre-trained weights for the pedestrian-specific Map-Aware Social-LSTM model.
-* **`lstm_best_weights_200k_tuned.pt`**: Pre-trained weights for the baseline vehicle LSTM.
-* **`multimodal_social_map_aware_V4.pt`**: Pre-trained weights for the multimodal vehicle architecture.
+* **`Baseline_LSTM_preprocessing_output/lstm_best_weights_200k_tuned.pt`**: Pre-trained weights for the baseline vehicle LSTM.
+* **`Map_aware_output/multimodal_social_map_aware_V4.pt`**: Pre-trained weights for the multimodal vehicle architecture.
 
 ## Architecture & Models
 
